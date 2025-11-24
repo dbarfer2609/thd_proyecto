@@ -10,13 +10,13 @@ Debes basarte en una aplicación real encontrada en noticias o informes.
 
 | Tecnología | Producto/servicio digital | Caso real encontrado (enlace) | Beneficio para el cliente | Beneficio para la empresa |
 |-----------|----------------------------|-------------------------------|----------------------------|---------------------------|
-| IA | | | | |
-| IoT | | | | |
-| Big Data | | | | |
-| Cloud Computing | | | | |
-| Blockchain | | | | |
-| Ciberseguridad | | | | |
-| RA/RV | | | | |
+| IA |Plataforma de predicción de consumo energético|Global Omnium + Telefónica Tech + Google Cloud usan IA para analizar datos de agua y detectar anomalías|Los clientes pueden tener una gestión más eficiente del agua, pagar menos, evitar desperdicios|EcoSmart podría usar IA para optimizar recursos, predecir picos, y ahorrar costes operativos|
+| IoT |Sensores inteligentes para agua, luz y residuos|Urbiotica usa sensores IoT para controlar aparcamientos, plazas, espacios urbanos|Sensores IoT permiten a la ciudad tener datos reales y en tiempo real para mejorar servicios|EcoSmart puede desplegar estos sensores para monitorizar todo y ofrecer datos para optimizar la infraestructura urbana|
+| Big Data |Plataforma analítica para datos de sensores|Capital Energy usa BigQuery, Looker, etc. para analizar datos de cientos de miles de sensores IoT|Con datos procesados, la ciudad puede entender patrones de consumo y tomar decisiones más inteligentes|EcoSmart puede ofrecer dashboards a municipios para que vean tendencias, consumos, anomalías y tomar decisiones basadas en datos|
+| Cloud Computing |Infraestructura en la nube para almacenar y procesar datos|Capital Energy también usa Google Cloud para su infraestructura TI|Almacenamiento seguro y escalable para datos de sensores urbanos, sin depender de servidores físicos costosos|EcoSmart ahorra en infraestructura, puede escalar fácilmente y acceder a servicios cloud para analítica, IA, etc.|
+| Blockchain |Registro seguro y transparente de consumo / transacciones energéticas|Wayra (Telefónica) invierte en Crossmint, una plataforma blockchain con IA|La comunidad o los ciudadanos pueden acceder a un registro transparente de su consumo, pagar de forma segura y verificar transacciones energéticas|EcoSmart puede usar blockchain para certificar energía renovable, hacer tokens de “energía verde” o microtransacciones seguras entre usuarios|
+| Ciberseguridad |Plataforma para proteger datos de sensores y usuarios|Capital Energy integra ciberseguridad en su nube con Fortinet + IA para proteger su red OT|Garantiza que los datos personales o de consumo estén seguros, lo que genera confianza en los ciudadanos|EcoSmart protege su reputación, evita brechas de seguridad que pueden suponer pérdidas económicas y legales|
+| RA/RV |Aplicación de realidad aumentada para visualización urbana| | | |
 
 ---
 
