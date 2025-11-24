@@ -1,6 +1,7 @@
 
 ## 🏢 Empresa seleccionada
 Breve descripción de la empresa real o ficticia.
+EcoSmart Solutions: una empresa ficticia que se dedica a desarrollar soluciones digitales para ciudades sostenibles: sensores para gestionar energía, agua, residuos, movilidad… vamos, smart city pero con onda ecológica.
 
 ---
 
